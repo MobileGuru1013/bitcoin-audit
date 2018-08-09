@@ -1,0 +1,40 @@
+{
+  "alive_workers": 3,
+  "total_workers": 5,
+  "reward": 377.00356915,
+  "threshold": 75.40071383,
+  "hashrate": 4531,
+  "workers": [
+    {
+      "name": "hera",
+      "score": 970.227112964,
+      "shares": 32296,
+      "hashrate": 1030,
+      "alive": true
+    }, {
+      "name": "ares",
+      "score": 870.227112964,
+      "shares": 0,
+      "hashrate": 0,
+      "alive": false
+    }, {
+      "name": "apollo",
+      "score": 770.227112964,
+      "shares": 32296,
+      "hashrate": 1201,
+      "alive": true
+    }, {
+      "name": "poseidon",
+      "score": 670.227112964,
+      "shares": 32296,
+      "hashrate": 2300,
+      "alive": true
+    }, {
+      "name": "athena",
+      "score": 670.227112964,
+      "shares": 0,
+      "hashrate": 0,
+      "alive": false
+    }
+  ]
+}
